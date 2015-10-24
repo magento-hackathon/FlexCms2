@@ -22,13 +22,5 @@
     "psr-4": {
       "FireGento\\FlexCms\\": ""
     }
-  },
-  "extra": {
-    "map": [
-      [
-        "*",
-        "FireGento/FlexCms"
-      ]
-    ]
   }
 }
